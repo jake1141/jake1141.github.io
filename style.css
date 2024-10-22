@@ -21,6 +21,7 @@ h1{
     border-style: solid;
     margin-right: 1620px;
     margin-left: 40px;
+    box-shadow: 10px 10px;
 }
 
 .mynav a:hover{
