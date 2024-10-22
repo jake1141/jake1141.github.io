@@ -1,0 +1,188 @@
+h2{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: aliceblue;
+    border-style:solid;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+body{
+    background-color: darkgrey;
+}
+
+h1{
+    background-color: aliceblue;
+    padding-left: 26px;
+    border-style: solid;
+    margin-right: 1620px;
+    margin-left: 40px;
+}
+
+.mynav a:hover{
+    background-color:orange ;
+}
+
+
+
+.mynav{
+    border-style: solid;
+    padding-left: 3px;
+    width: 250px;
+    text-align: center;
+    margin-left: 70%;
+    background-color: white;
+    color: black;
+}
+
+h3{
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: aliceblue;
+    border-style:solid;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+}
+
+img{
+    float: right;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+
+h1{
+    color: black;
+}
+
+.center{
+    margin-left: 55%;
+    margin-right: 45%;
+    width: 50%;
+    border: 3px solid #000000;
+    border-radius: 30px;
+    padding: 8px;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 5%;
+}
+.middle{
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 20%;
+    border: 3px solid #000000;
+    border-radius: 30px;
+    padding: 8px;
+    width: 220px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.college{
+    margin-left: 40%;
+    margin-right: 60%;
+    width: 30%;
+    border: 3px solid #000000;
+    border-radius: 30px;
+    padding: 8px;
+    width: 300px;   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+}
+.logo{
+    margin-left: 90%;
+    margin-right: 10%;
+    width: 30%;
+    border: 3px solid #000000;
+    border-radius: 30px;
+    padding: 8px;
+    width: 300px;   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
+}
+.computer{
+    margin-left: 30%;
+    margin-right: 70%;
+    width: 30%;
+    border: 3px solid #000000;
+    border-radius: 30px;
+    padding: 8px;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
+}
+.cooking{
+    margin-left: 63%;
+    margin-right: 37%;
+    width: 30%;
+    border: 3px solid #000000;
+    border-radius: 30px;
+    padding: 8px;
+    width: 250px;  
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
+}
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+.playstation{
+    margin-left: 95%;
+    margin-right: 5%;
+    width: 30%;
+    border: 3px solid #000000;
+    border-radius: 30px;
+    padding: 8px;
+    width: 250px;  
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
+}
+.column{
+    float:left;
+}
+.left{
+    width: 50%;
+    margin-top: 5%;
+}
+.right{
+    width: 50%;
+    margin-top: 5%;
+}
+a:visited{
+    color: black;
+}
+.playstation {
+    float: right;
+    width: 25%;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.cooking {
+    float: right;
+    width: 25%;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.computer {
+    float: right;
+    width: 25%;
+    margin-top: 30px;
+}
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.active{
+    color: black;
+    background-color: orange;
+    text-decoration: solid;
+}
