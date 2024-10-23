@@ -29,8 +29,6 @@ h1{
     background-color:orange ;
 }
 
-
-
 .mynav{
     border-style: solid;
     padding-left: 3px;
@@ -107,39 +105,11 @@ h1{
     width: 300px;   
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
 }
-.computer{
-    margin-left: 30%;
-    margin-right: 70%;
-    width: 30%;
-    border: 3px solid #000000;
-    border-radius: 30px;
-    padding: 8px;
-    width: 250px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
-}
-.cooking{
-    margin-left: 63%;
-    margin-right: 37%;
-    width: 30%;
-    border: 3px solid #000000;
-    border-radius: 30px;
-    padding: 8px;
-    width: 250px;  
-    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
-}
+
 img:hover {
     box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
   }
-.playstation{
-    margin-left: 95%;
-    margin-right: 5%;
-    width: 30%;
-    border: 3px solid #000000;
-    border-radius: 30px;
-    padding: 8px;
-    width: 250px;  
-    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
-}
+
 .column{
     float:left;
 }
